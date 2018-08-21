@@ -4,6 +4,6 @@ Visual Studio Dark theme for Xcode
 Default Visual Studio **Dark** theme for Xcode
 
 Screenshot:
-![alt text](https://b.radikal.ru/b03/1808/37/3dcf7144276bt.jpg)
+![alt text](https://c.radikal.ru/c17/1808/f0/018f75393eca.png)
 
 Used font: Source Code Pro
